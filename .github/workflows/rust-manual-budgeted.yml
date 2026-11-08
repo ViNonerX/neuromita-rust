@@ -257,3 +257,4 @@ jobs:
                       f"- [Complete job log]({run_url})\n"
                   )
           PY
+# CI gate source revision 095467e18412da38df782439cd1db5e2fdbe13e1
